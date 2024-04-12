@@ -1,0 +1,180 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'install', 'node' ]
+2 info using npm@1.2.11
+3 info using node@v0.8.20
+4 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/package.json
+5 warn package.json assiment6@0.0.0 No README.md file found!
+6 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/node-fetch/package.json
+7 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/https-proxy-agent/package.json
+8 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/inherits/package.json
+9 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/gopd/package.json
+10 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/bcrypt/package.json
+11 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/is-fullwidth-code-point/package.json
+12 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/cookie/package.json
+13 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/fresh/package.json
+14 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/cookie-signature/package.json
+15 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/yallist/package.json
+16 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/object-inspect/package.json
+17 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/encodeurl/package.json
+18 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/hasown/package.json
+19 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/webidl-conversions/package.json
+20 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/agent-base/package.json
+21 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/balanced-match/package.json
+22 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/define-data-property/package.json
+23 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/path-is-absolute/package.json
+24 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/fs.realpath/package.json
+25 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/mime/package.json
+26 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/mime-types/package.json
+27 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/function-bind/package.json
+28 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/utils-merge/package.json
+29 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/inflight/package.json
+30 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/rimraf/package.json
+31 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/iconv-lite/package.json
+32 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/make-dir/package.json
+33 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/bson/package.json
+34 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/content-disposition/package.json
+35 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/content-type/package.json
+36 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/lru-cache/package.json
+37 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/ansi-regex/package.json
+38 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/gauge/package.json
+39 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/whatwg-url/package.json
+40 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/delegates/package.json
+41 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/destroy/package.json
+42 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/statuses/package.json
+43 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/safe-buffer/package.json
+44 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/punycode/package.json
+45 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/signal-exit/package.json
+46 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/finalhandler/package.json
+47 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/mkdirp/package.json
+48 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/range-parser/package.json
+49 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/negotiator/package.json
+50 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/tar/package.json
+51 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/has-symbols/package.json
+52 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/has-proto/package.json
+53 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/has-property-descriptors/package.json
+54 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/unpipe/package.json
+55 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/etag/package.json
+56 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/color-support/package.json
+57 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/mquery/package.json
+58 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/methods/package.json
+59 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/glob/package.json
+60 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/@types/package.json
+61 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/media-typer/package.json
+62 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/npmlog/package.json
+63 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/sparse-bitfield/package.json
+64 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/proxy-addr/package.json
+65 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/tr46/package.json
+66 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/type-is/package.json
+67 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/side-channel/package.json
+68 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/set-function-length/package.json
+69 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/raw-body/package.json
+70 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/chownr/package.json
+71 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/call-bind/package.json
+72 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/send/package.json
+73 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/mongodb/package.json
+74 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/undici-types/package.json
+75 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/string-width/package.json
+76 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/qs/package.json
+77 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/sift/package.json
+78 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/kareem/package.json
+79 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/are-we-there-yet/package.json
+80 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/@mongodb-js/package.json
+81 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/string_decoder/package.json
+82 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/bytes/package.json
+83 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/toidentifier/package.json
+84 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/detect-libc/package.json
+85 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/forwarded/package.json
+86 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/once/package.json
+87 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/setprototypeof/package.json
+88 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/util-deprecate/package.json
+89 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/minipass/package.json
+90 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/nopt/package.json
+91 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/parseurl/package.json
+92 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/body-parser/package.json
+93 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/mime-db/package.json
+94 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/array-flatten/package.json
+95 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/accepts/package.json
+96 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/concat-map/package.json
+97 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/minizlib/package.json
+98 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/get-intrinsic/package.json
+99 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/minimatch/package.json
+100 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/node-addon-api/package.json
+101 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/ms/package.json
+102 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/wrappy/package.json
+103 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/memory-pager/package.json
+104 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/emoji-regex/package.json
+105 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/mongoose/package.json
+106 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/brace-expansion/package.json
+107 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/mongodb-connection-string-url/package.json
+108 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/wide-align/package.json
+109 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/aproba/package.json
+110 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/fs-minipass/package.json
+111 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/debug/package.json
+112 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/serve-static/package.json
+113 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/ee-first/package.json
+114 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/escape-html/package.json
+115 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/set-blocking/package.json
+116 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/http-errors/package.json
+117 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/console-control-strings/package.json
+118 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/merge-descriptors/package.json
+119 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/object-assign/package.json
+120 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/@mapbox/package.json
+121 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/safer-buffer/package.json
+122 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/vary/package.json
+123 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/ipaddr.js/package.json
+124 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/mpath/package.json
+125 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/on-finished/package.json
+126 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/has-unicode/package.json
+127 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/readable-stream/package.json
+128 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/express/package.json
+129 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/path-to-regexp/package.json
+130 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/strip-ansi/package.json
+131 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/depd/package.json
+132 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/semver/package.json
+133 verbose read json /home/ibrahem/Desktop/node.js/wekk5/assiment6/node_modules/abbrev/package.json
+134 verbose from cache /home/ibrahem/Desktop/node.js/wekk5/assiment6/package.json
+135 verbose readDependencies using package.json deps
+136 verbose cache add [ 'node', null ]
+137 verbose cache add name=undefined spec="node" args=["node",null]
+138 verbose parsed url { pathname: 'node', path: 'node', href: 'node' }
+139 silly lockFile f8e966d1-node node
+140 verbose lock node /home/ibrahem/.npm/f8e966d1-node.lock
+141 silly lockFile f8e966d1-node node
+142 silly lockFile f8e966d1-node node
+143 verbose addNamed [ 'node', '' ]
+144 verbose addNamed [ null, '' ]
+145 silly lockFile bccd7aa1-node node@
+146 verbose lock node@ /home/ibrahem/.npm/bccd7aa1-node.lock
+147 silly addNameRange { name: 'node', range: '', hasData: false }
+148 verbose url raw node
+149 verbose url resolving [ 'https://registry.npmjs.org/', './node' ]
+150 verbose url resolved https://registry.npmjs.org/node
+151 info trying registry request attempt 1 at 09:14:24
+152 http GET https://registry.npmjs.org/node
+153 info retry will retry, error on last attempt: Error: 140051858057024:error:1407742E:SSL routines:SSL23_GET_SERVER_HELLO:tlsv1 alert protocol version:../deps/openssl/openssl/ssl/s23_clnt.c:658:
+154 info trying registry request attempt 2 at 09:14:34
+155 http GET https://registry.npmjs.org/node
+156 info retry will retry, error on last attempt: Error: 140051858057024:error:1407742E:SSL routines:SSL23_GET_SERVER_HELLO:tlsv1 alert protocol version:../deps/openssl/openssl/ssl/s23_clnt.c:658:
+157 info trying registry request attempt 3 at 09:15:35
+158 http GET https://registry.npmjs.org/node
+159 silly lockFile bccd7aa1-node node@
+160 silly lockFile bccd7aa1-node node@
+161 error Error: 140051858057024:error:1407742E:SSL routines:SSL23_GET_SERVER_HELLO:tlsv1 alert protocol version:../deps/openssl/openssl/ssl/s23_clnt.c:658:
+161 error
+161 error     at CleartextStream._puller (tls.js:667:24)
+161 error     at CleartextStream.CryptoStream._pull (tls.js:601:19)
+161 error     at SecurePair.cycle (tls.js:891:20)
+161 error     at EncryptedStream.CryptoStream.write (tls.js:285:13)
+161 error     at Socket.ondata (stream.js:38:26)
+161 error     at Socket.EventEmitter.emit (events.js:96:17)
+161 error     at TCP.onread (net.js:397:14)
+162 error If you need help, you may report this log at:
+162 error     <http://github.com/isaacs/npm/issues>
+162 error or email it to:
+162 error     <npm-@googlegroups.com>
+163 error System Linux 5.14.0-1058-oem
+164 error command "/usr/local/bin/node" "/usr/local/bin/npm" "install" "node"
+165 error cwd /home/ibrahem/Desktop/node.js/wekk5/assiment6
+166 error node -v v0.8.20
+167 error npm -v 1.2.11
+168 verbose exit [ 1, true ]
